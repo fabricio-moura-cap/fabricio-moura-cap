@@ -3,8 +3,8 @@
 - 🎓 Terceiro semestre em Engenharia de Software (UEM).
 - 💼 Trabalhando como Desenvolvedor Back-End e Consultoria de Automação de Processos.
 - 🕴️ Fundador da Techagil - Software House 
-- 🌱 Aprendendo mais sobre Azure.
-- 🎧 DJ afixionado por Just Raw, Hardstyle e Bruxaria Ritmada. Me encontre na Soundcloud!
+- 🌱 Aprendendo mais sobre GraphQL e manipulação de AJAX.
+- 🎧 Just Raw, Hardstyle e Bruxaria Ritmada. Me encontre na Soundcloud.
 
 ## Minhas Skills
 
